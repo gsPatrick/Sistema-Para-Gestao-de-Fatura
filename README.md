@@ -77,7 +77,7 @@ Este projeto é uma aplicação web desenvolvida com Next.js no front-end e Nest
 *   **Páginas:**
     *   `/`: Página inicial, listagem de pessoas (`index.tsx`).
     *   `/invoice`: Listagem de faturas (`invoice/index.tsx`).
-    *   `/invoice/create`: Formulário de criação de faturas. (`invoice/create.tsx`).
+    *   `/person`: Listagem de faturas (`invoice/index.tsx`).
     *   `/login`: Formulário de login do usuário (`login.tsx`)
 
 *   **Componentes:**
